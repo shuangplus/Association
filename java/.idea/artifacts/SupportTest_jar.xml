@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SupportTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SupportTest</output-path>
+    <root id="archive" name="SupportTest.jar">
+      <element id="module-output" name="SupportTest" />
+      <element id="extracted-dir" path="D:/hadoop2.7.1/share/hadoop/common/hadoop-common-2.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/spark2.0.0binhadoop2.7/jars/spark-core_2.11-2.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/spark2.0.0binhadoop2.7/jars/scala-library-2.11.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/spark2.0.0binhadoop2.7/jars/spark-mllib_2.11-2.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
